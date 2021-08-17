@@ -1,0 +1,8 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+@import "bootstrap-icons/font/bootstrap-icons.css";
+
+.auth-row {
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}

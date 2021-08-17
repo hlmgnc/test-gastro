@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Movie 1",
+    "release-date": "2021-08-23",
+    "duration": 120,
+    "actors": ["Genç Hilmi", "Hilmi Genç"],
+    "averageRating": 4
+  },
+  {
+    "id": "2",
+    "name": "Movie 2",
+    "release-date": "2021-08-23",
+    "duration": 120,
+    "actors": ["Genç Hilmi", "Hilmi Genç"],
+    "averageRating": 4
+  },
+  {
+    "id": "3",
+    "name": "Movie 3",
+    "release-date": "2021-08-23",
+    "duration": 120,
+    "actors": ["Genç Hilmi", "Hilmi Genç"],
+    "averageRating": 4
+  },
+  {
+    "id": "4",
+    "name": "Movie 4",
+    "release-date": "2021-08-23",
+    "duration": 120,
+    "actors": ["Genç Hilmi", "Hilmi Genç"],
+    "averageRating": 4
+  },
+  {
+    "id": "5",
+    "name": "Movie 5",
+    "release-date": "2021-08-23",
+    "duration": 120,
+    "actors": ["Genç Hilmi", "Hilmi Genç"],
+    "averageRating": 3.4
+  },
+  {
+    "id": "6",
+    "name": "Movie 6",
+    "release-date": "2021-08-23",
+    "duration": 120,
+    "actors": ["Genç Hilmi", "Hilmi Genç"],
+    "averageRating": 3.6
+  }
+]
